@@ -5,7 +5,7 @@ export default function Header() {
     <div className="header">
       <h2>
         Link to the code:{" "}
-        <a href="https://github.com/ValeriaKul/Algoritms-JS">LINK</a>
+        <a href="https://github.com/ValeriaKul/HW-15-Feb-2023-People">LINK</a>
       </h2>
     </div>
   );
