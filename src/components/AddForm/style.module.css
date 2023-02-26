@@ -1,0 +1,18 @@
+.form_add{
+ background-color: rgba(44, 44, 74, 0.902);
+ display: flex;
+ max-width: fit-content;
+ border-radius: 5px;
+}
+
+input, select, .btn_add, .form_add   {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn_add {
+    background-color:rgba(16, 175, 144, 0.902);
+    color: white;
+}
