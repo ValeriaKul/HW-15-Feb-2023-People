@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW-22-Feb-2023-Reople-REDUX/static/css/main.c780f114.css",
+    "main.js": "/HW-22-Feb-2023-Reople-REDUX/static/js/main.d1f2999d.js",
+    "index.html": "/HW-22-Feb-2023-Reople-REDUX/index.html",
+    "main.c780f114.css.map": "/HW-22-Feb-2023-Reople-REDUX/static/css/main.c780f114.css.map",
+    "main.d1f2999d.js.map": "/HW-22-Feb-2023-Reople-REDUX/static/js/main.d1f2999d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c780f114.css",
+    "static/js/main.d1f2999d.js"
+  ]
+}
