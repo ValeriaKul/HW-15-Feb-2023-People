@@ -1,9 +1,11 @@
 import React from "react";
 import People from "../People/People";
+import { useSelector } from "react-redux";
 
-export default function Male({ newPeople }) {
-  const man = newPeople.filter((men) => men.sex === "male");
-  console.log(man);
+export default function Male() {
+  const people = useSelector((state) => state);
+  const man = people.filter((men) => men.sex === "male");
+
   return (
     <div className="cont_male">
       <p className="p_man">Man</p>
